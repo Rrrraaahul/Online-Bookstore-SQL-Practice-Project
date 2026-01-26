@@ -60,8 +60,7 @@ All SQL queries in this repository are written by me during practice
 and represent my own understanding of SQL concepts.
 
 ## Author
-Rahul Pal  
-Aspiring Data Analyst  
+Rahul Pal    
 Skills: SQL, Excel, Power BI
 
 ## Resume Line
