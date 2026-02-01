@@ -63,6 +63,4 @@ and represent my own understanding of SQL concepts.
 Rahul Pal    
 Skills: SQL, Excel, Power BI
 
-## Resume Line
-Designed and queried an Online Bookstore database using SQL
-to analyze sales, customers, and inventory data.
+
